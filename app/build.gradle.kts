@@ -12,7 +12,7 @@ android {
         versionCode = 1
         versionName = "1.0.0"
         buildConfigField("String", "SUPABASE_URL", "\"https://twwgjswubwsilzpwfpso.supabase.co\"")
-        buildConfigField("String", "SUPABASE_ANON_KEY", "\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImN4ZGZlZWJuYmV3bXVtdWJucWF6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTU1MzQ1NjksImV4cCI6MjExMTExMDU2OX0.TXtxgvJdBxAKiklg8CISboAdXWHs3WtWDORc3OFrpJE\"")
+        buildConfigField("String", "SUPABASE_ANON_KEY", "\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR3d2dqc3d1YndzaWx6cHdmcHNvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTU2MTg2NzQsImV4cCI6MjExMTE5NDY3NH0.cAfZstEzhD-ADU9osbiZG7jtQ95No4bdI2ghciBXa8g\"")
         buildConfigField("String", "BUY_KEY_URL", "\"https://wa.me/6285175215023\"")
     }
     buildFeatures { compose = true; buildConfig = true }
